@@ -1,4 +1,5 @@
-PokeLike
+# PokeLike
+
 Projeto de jogo em Java inspirado no universo Pokémon, desenvolvido como trabalho acadêmico para simular batalhas entre Pokémon com escolha de geração, evolução, ataques e chefões finais.
 
 # Jogo Pokémon em Java
